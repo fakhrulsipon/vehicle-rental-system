@@ -106,7 +106,7 @@ CREATE DATABASE vehicle_rental_system;
 
 **Links:**
 - GitHub Repository: https://github.com/fakhrulsipon/vehicle-rental-system
-- ERD: 
+- ERD: https://drawsql.app/teams/mcl-3/diagrams/vehicle-rental-system
 
 ---
 
